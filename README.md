@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome to my GitHub!
+
+Below you'll find a collection of various repositories, ranging from schoolwork to personal projects. Feel free to have a look around.
+
+![LeowWB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leowwb&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
 <!--
 **LeowWB/LeowWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
