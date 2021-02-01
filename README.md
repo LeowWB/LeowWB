@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Below you'll find a collection of various repositories, ranging from schoolwork to personal projects. Feel free to have a look around.
+Below you'll find a collection of various repositories, ranging from schoolwork to personal projects. Feel free to have a look around! For a more organized timeline of my activities, please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/leowwb/) or my [personal site](leowwenb.in).
 
 ![LeowWB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leowwb&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
